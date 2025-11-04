@@ -7,3 +7,7 @@ hobi = "renang"
 apakahsenang = True
 # tipe integer
 phi = 3.14
+
+
+
+
