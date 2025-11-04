@@ -8,6 +8,7 @@ apakahsenang = True
 # tipe integer
 phi = 3.14
 
+# ini betul
 
 
 
