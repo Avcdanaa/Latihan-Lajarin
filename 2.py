@@ -15,3 +15,5 @@ value= True/False
 nama= "phi"
 value=3,14
 #float
+
+# ini salah
